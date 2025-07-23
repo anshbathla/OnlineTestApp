@@ -1,5 +1,0 @@
-# Created at 2025-06-12T16:05:07.108
-Boot Manifest-JAR contains absolute paths in classpath 'D:\Desktop\Prolim Java Full Stack Training\Prolim Training Repository\Maven Project\SimpleMavenProject\target\test-classes'
-Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
-'other' has different root
-
